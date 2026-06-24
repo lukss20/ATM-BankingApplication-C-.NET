@@ -1,0 +1,18 @@
+[
+  {
+    "FirstName": "Luka",
+    "LastName": "Chitaia",
+    "CardDetails": {
+      "CardNumber": "1234567812345678",
+      "ExpirationDate": "12/30",
+      "CVC": "123"
+    },
+    "PinCode": "1234",
+    "Balances": {
+      "GEL": 1500,
+      "USD": 500,
+      "EUR": 300
+    },
+    "TransactionHistory": []
+  }
+]
